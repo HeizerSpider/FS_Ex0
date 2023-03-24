@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(0, 211, 249);
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color:blue;
+    width: 40%;
+    background-color: none;
+}
+
+div {
+    color: red;
+    text-align: center;
+}
+
+img {
+    display : block;
+    margin : auto;
+}
